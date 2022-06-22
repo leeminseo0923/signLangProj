@@ -1,0 +1,6 @@
+{
+    "name": "Text To Sign Language Project",
+    "description": "When cursor is hovering text, it is translated to Sign Language Img",
+    "version": "1.0",
+    "manifiest_version": 3
+}
